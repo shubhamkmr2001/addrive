@@ -7,7 +7,7 @@ class config:
     SUPPORT_CHAT_LINK = ""
     DOWNLOAD_DIRECTORY = "./downloads/"
 
-pluzbmisqdknxp
+
 class BotCommands:
   Download = ['download', 'dl']
   Authorize = ['auth', 'authorize']
