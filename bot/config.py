@@ -61,7 +61,7 @@ class Messages:
     
     FLOW_IS_NONE = f"❗ **Invalid Code**\n__Run {BotCommands.Authorize[0]} first.__"
     
-    AUTH_SUCCESSFULLY = "**Hieee There Welcome to ADDrive**☺️ \n \n**💚AUTHORISED** \nNow I can Upload to your GDrive.Send me any Direct link or File and see the Magic✨ \n \n__Use /revoke to revoke the authorization.__"
+    AUTH_SUCCESSFULLY = "**💚AUTHORISED** \nNow I can Upload to your GDrive.Send me any Direct link or File and see the Magic✨ \n \n__Use /revoke to revoke the authorization.__"
     
     INVALID_AUTH_CODE = '❗ **Invalid Code**\n__The code you have sent is invalid or already used before. Generate new one by the Authorization URL__'
     
