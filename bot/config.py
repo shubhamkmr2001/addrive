@@ -57,7 +57,7 @@ class Messages:
     
     DOWNLOADING = "📥 **Downloading File...\nLink:** ```{}```"
     
-    ALREADY_AUTH = "🔒 **Already authorized your Google Drive Account.**\n__Use /revoke to revoke the current account.__\n__Send me a direct link or File to Upload on Google Drive__"
+    ALREADY_AUTH = "**Hieee There Welcome to ADDrive**☺️ \n \n**💚AUTHORISED** \nNow I can Upload to your GDrive.Send me any Direct link or File and see the Magic✨ \n \n__Use /revoke to revoke the authorization.__"
     
     FLOW_IS_NONE = f"❗ **Invalid Code**\n__Run {BotCommands.Authorize[0]} first.__"
     
