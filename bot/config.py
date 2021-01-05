@@ -2,12 +2,12 @@ class config:
     BOT_TOKEN = "1440707893:AAFpCcDXVZZKIJJUPiFW4kX0riUgNh_UFdA"
     APP_ID = "2916576"
     API_HASH = "18fb2dec66b8410b83264d42eb5cca68"
-    DATABASE_URL = ""
+    DATABASE_URL = "postgres://pluzbmisqdknxp:2156d6925a30da80a086cf4685660d529b2ba9ac0891149997fbeb7c098994ef@ec2-52-211-161-21.eu-west-1.compute.amazonaws.com:5432/de4mo4774qnt3b"
     SUDO_USERS = "1085258119" # Sepearted by space.
-    SUPPORT_CHAT_LINK = "postgres://pluzbmisqdknxp:2156d6925a30da80a086cf4685660d529b2ba9ac0891149997fbeb7c098994ef@ec2-52-211-161-21.eu-west-1.compute.amazonaws.com:5432/de4mo4774qnt3b"
+    SUPPORT_CHAT_LINK = ""
     DOWNLOAD_DIRECTORY = "./downloads/"
 
-
+pluzbmisqdknxp
 class BotCommands:
   Download = ['download', 'dl']
   Authorize = ['auth', 'authorize']
