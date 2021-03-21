@@ -29,7 +29,7 @@ def utube_dl(link):
     'outtmpl' : os.path.join(DOWNLOAD_DIRECTORY, '%(title)s'),
     'noplaylist' : True,
     'logger': LOGGER,
-    'format': 'bestvideo+bestaudio/best',
+    'format': 'bestvideo[height<=360]+bestaudio/best',
     'geo_bypass_country': 'IN'
   }
   with youtube_dl.YoutubeDL(ytdl_opts) as ytdl:
